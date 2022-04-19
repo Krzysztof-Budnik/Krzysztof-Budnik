@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krzysztof-Budnik
-- 👀 I’m interested in data science and investing
+- 👀 I’m interested in data science and investing related topics
 - 🌱 I’m currently working on programming project for my portfolio
 - 📫 Reach me by email: krzysztofm.budnik@gmail.com
 
